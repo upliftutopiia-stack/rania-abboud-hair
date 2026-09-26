@@ -276,9 +276,6 @@ export default function Home() {
           </div>
         </div>
 
-        <p className="portfolioNote">
-          Portfolio imagery can be added from Rania&apos;s own collection.
-        </p>
       </section>
 
       {/* BRIDAL */}
